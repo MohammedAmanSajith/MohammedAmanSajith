@@ -1,59 +1,71 @@
-# 👋 Hi, I'm Mohammed Aman Sajith
+<h1 align="center">Hey There 👋, I'm Mohammed Aman Sajith</h1>
 
-💻 **AI Engineer | LLM & RAG Developer**
-
----
-
-## 🚀 About Me
-
-* 🎓 Computer Science Graduate (2025) – SRM University
-* 💼 **IT Trainee at Flex**
-* 🤖 Building **AI-powered applications & intelligent data systems**
-* 🧠 Specialized in **LLMs, RAG, and Knowledge-Based AI systems**
+<h3 align="center">AI Engineer | LLM • RAG • Intelligent Systems</h3>
 
 ---
 
-## 🧠 What I Do
+## 🧑‍💻 About Me  
 
-* Build **LLM-powered chatbots & AI assistants**
-* Design **Retrieval-Augmented Generation (RAG) systems**
-* Work with **knowledge graphs & document intelligence pipelines**
-* Develop systems that **retrieve, reason, and generate from large datasets**
-
----
-
-## 🔧 Tech Stack
-
-### 🤖 AI / ML
-
-* Python
-* LLMs (OpenAI, Gemini, Hugging Face)
-* LangChain
-* RAG Architectures
-* GraphRAG
-* Prompt Engineering
-
-### 🗄️ Data & Backend
-
-* SQL / Microsoft SQL Server
-* ChromaDB
-* Azure OpenAI
-* Microsoft Copilot Studio
+- 💼 Currently working as **IT Trainee at Flex**  
+- 🤖 Building **LLM-powered Applications & AI Systems**  
+- 🧠 Specialized in **LLMs, RAG, GraphRAG & Prompt Engineering**  
+- 📊 Working with **SQL, Azure OpenAI & Copilot Studio**  
+- 🎯 Goal: Build **end-to-end intelligent systems for real-world impact**  
 
 ---
 
-## 📈 Currently Exploring
+## 🛠️ Tech Stack  
 
-* Advanced **RAG + Knowledge Graph systems**
-* AI Automation workflows
-* Scalable enterprise AI architectures
-
----
-
-## 📫 Connect With Me
-
-* 🔗 https://www.linkedin.com/in/mohammedamansajith777/
+### 💻 Languages & Core  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
-⭐ *Building intelligent systems that combine data, reasoning, and AI.*
+### 🤖 AI / ML  
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121D33?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FF9A00?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-0A66C2?style=for-the-badge)
+![GraphRAG](https://img.shields.io/badge/GraphRAG-FF6F00?style=for-the-badge)
+
+---
+
+### ⚙️ Tools & Platforms  
+![Azure](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Copilot Studio](https://img.shields.io/badge/Copilot_Studio-000000?style=for-the-badge&logo=microsoft&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF4B4B?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+---
+
+## 🚀 Featured Project  
+
+### 🔹 Elevate – Mental Health Chatbot  
+- 🧠 AI chatbot focused on student wellness  
+- ⚡ Built with **Next.js, TypeScript, OpenAI, LangChain**  
+- 🌐 https://elevate-mental-health-chatbot.vercel.app/  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohammedAmanSajith&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedAmanSajith&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MohammedAmanSajith&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MohammedAmanSajith-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohammedamansajith777/)
+
+---
+
+✨ *Building AI systems that combine data, reasoning, and intelligence*
