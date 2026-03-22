@@ -40,14 +40,6 @@
 
 ---
 
-## 🚀 Featured Project  
-
-### 🔹 Elevate – Mental Health Chatbot  
-- 🧠 AI chatbot focused on student wellness  
-- ⚡ Built with **Next.js, TypeScript, OpenAI, LangChain**  
-- 🌐 https://elevate-mental-health-chatbot.vercel.app/  
-
----
 
 ## 📊 GitHub Stats  
 
